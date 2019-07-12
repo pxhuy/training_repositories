@@ -1,4 +1,4 @@
-## Synopsis / Tóm tắt
+﻿## Synopsis / Tóm tắt
 
  Repository này được dùng để lưu trữ demo các bài thực hành về angular.	
  
@@ -31,6 +31,7 @@
   - You are welcome
  
  @Hieu: Pham Van Hieu
+ @Huy: Phan Xuan Huy
 
 ## License
 
